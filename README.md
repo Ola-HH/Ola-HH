@@ -1,7 +1,7 @@
-### Hi there 👋
+### hey
 
-My name is Ola Hagerupsen Hansen, and I am currently studying Industrial Economics and Technology Management at NTNU in Trondheim⚡
+Studying Industrial Economics and Technology Management at NTNU, with a specialization in AI and optimization.
 
-I am passionate about coding, but I mostly code for fun and learning😄
-I have experience working with JavaScript, React, TypeScript, Java, SQL and Python👨🏽‍💻 
+Most of my coding has been for startups, along with some work for student organizations and a few hobby projects. Right now I'm mainly working on my master's thesis, which is about turning plain language into optimization models.
 
+Broad experience across the stack, including Python, TypeScript, Ruby on Rails, Java, React, FastAPI, Postgres, Neon, Supabase, Vercel, Render, etc. etc. etc. etc.
